@@ -4,9 +4,8 @@
 #  مقدمه‌ای بر اقتصاد غیر‌متمرکز(دی‌فای)
 
 
-<img src="https://github.com/defi-master/defi_book/blob/master/images/draft%20cover.png" width=600 alt="what is defi Cover">
+<img src="https://github.com/defi-master/defi_book/blob/master/images/draft%20cover.png" width=500 alt="what is defi Cover">
 
-***
 ## :exclamation: تذکر:
 <div dir="ltr">
   <h4>defi : decentralized finance</h4>
@@ -14,10 +13,9 @@
 
 
 ترجمه دقیق **دی‌فای**،  «امور مالی غیر متمرکز» هست ؛ اما ما در این کتاب به خاطر گُنگ بودن عبارت **«امور مالی غیر‌متمرکز»** از عبارت **«اقتصاد غیر‌متمرکز»** استفاده می‌کنیم ، هرچند که می‌دانیم finance و economic متفاوت هستند 
-***
 
 ## دیباچه
-
+دلیل نوشته شدن 
 
 
 ## وضعیت
@@ -36,8 +34,8 @@
 
 | بخش | حجم (تعداد کلمات ) |  وضعیت |
 |-------|------|:------:|
-| [مقدمه](https://github.com/defi-master/defi_book/blob/master/book/%D9%85%D9%82%D8%AF%D9%85%D9%87) | ### | :bookmark_tabs: |
-| [فصل 1 : زیر ساخت های مالی سنتی](https://github.com/defi-master/defi_book/blob/master/book/%D9%81%D8%B5%D9%84%201) | ############# | :thought_balloon: |
+| [مقدمه](https://github.com/defi-master/defi_book/blob/master/book/%D9%85%D9%82%D8%AF%D9%85%D9%87) | ### | :arrows_clockwise: |
+| [فصل 1 : زیر ساخت های مالی سنتی](https://github.com/defi-master/defi_book/blob/master/book/%D9%81%D8%B5%D9%84%201) | ############# | :bookmark_tabs |
 | [فصل 2 : اقتصاد غیر‌متمرکز چیست](https://github.com/defi-master/defi_book/blob/master/book/%D9%81%D8%B5%D9%84%202) | ############# | :thought_balloon: |
 | [فصل 3 : زیرساخت غیر‌متمرکز سازی (اتریوم)](https://github.com/defi-master/defi_book/blob/master/book/%D9%81%D8%B5%D9%84%203) | ### | :thought_balloon: |
 | [فصل 4 : کیف پول های اتریوم](https://github.com/defi-master/defi_book/blob/master/book/%D9%81%D8%B5%D9%84%204) | ############# | :thought_balloon: |
@@ -55,10 +53,9 @@
 | [ پیوست ها](https://github.com/defi-master/defi_book/blob/master/book/%D9%BE%DB%8C%D9%88%D8%B3%D8%AA%20%D9%87%D8%A7) | ############# | :thought_balloon: |
 
 ## مشارکت در توسعه
-لطفا به @newbateni یا @Alireza265 در تلگرام پیام بدید  
-
+لطفا به آی‌دی newbateni و یا Alireza265 در تلگرام پیام بدید
 ## اصول اخلاقی استفاده
-<img src="https://github.com/defi-master/defi_book/blob/master/images/Screenshot%20from%202020-08-23%2023-24-35.png" width=800 alt="licance">
+<img src="https://github.com/defi-master/defi_book/blob/master/images/Screenshot%20from%202020-08-23%2023-24-35.png" width=650 alt="licance">
 
 
 </div>
