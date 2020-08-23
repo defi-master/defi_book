@@ -4,7 +4,11 @@
 #  دی‌فای چیست
 
 
-<img src="images/cover_thumb.png" width=200 alt="what is defi Cover">
+<img src="https://github.com/defi-master/defi_book/blob/master/images/draft%20cover.png" width=400 alt="what is defi Cover">
+
+## :exclamation: تذکر:
+ترجمه دقیق عبارت **دی‌فای** امور مالی غیر متمرکز هست ؛ اما ما در این کتاب به خاطر گُنگ بودن عبارت **امور مالی غیر‌متمرکز** از عبارت **اقتصاد غیر‌متمرکز** استفاده می‌کنیم ، هرچند که می‌دانیم finance و economic متفاوت هستند 
+***
 
 ## دیباچه
 
