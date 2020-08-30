@@ -42,11 +42,11 @@
  | بخش | حجم (تعداد کلمات ) |  وضعیت |  نویسنده / مترجم / گردآورنده |  مشارکت کنندگان |
 |-------|------|:------:|------|------|
 | [مقدمه](https://github.com/defi-master/defi_book/blob/master/book/%D9%85%D9%82%D8%AF%D9%85%D9%87.md) | #(494) | :green_book: |علی‌رضا شریف‌پور |
-| [فصل 1 : زیر ساخت های مالی سنتی](https://github.com/defi-master/defi_book/blob/master/book/%D9%81%D8%B5%D9%84%201) | ######## | :bookmark_tabs: |علی‌رضا جمالی |
-| [فصل 2 : سیستم های مالی  غیر‌متمرکز چیست](https://github.com/defi-master/defi_book/blob/master/book/%D9%81%D8%B5%D9%84%202) | ############ | :thought_balloon: | حمید‌رضا مرادی |
-| [فصل 3 : زیرساخت غیر‌متمرکز سازی (اتریوم)](https://github.com/defi-master/defi_book/blob/master/book/%D9%81%D8%B5%D9%84%203) | ### | :thought_balloon: |
-| [فصل 4 : کیف پول های اتریوم](https://github.com/defi-master/defi_book/blob/master/book/%D9%81%D8%B5%D9%84%204) | ######## | :thought_balloon: |
-| [فصل 5 : استیبل کوین غیرمتمرکز](https://github.com/defi-master/defi_book/blob/master/book/%D9%81%D8%B5%D9%84%205) | ############ | :thought_balloon: |
+| [فصل 1 : زیر ساخت های مالی سنتی](https://github.com/defi-master/defi_book/blob/master/book/%D9%81%D8%B5%D9%84%201.md) | ####(1468)| :green_book:  |علی‌رضا جمالی |
+| [فصل 2 : سیستم های مالی  غیر‌متمرکز چیست](https://github.com/defi-master/defi_book/blob/master/book/%D9%81%D8%B5%D9%84%202.md) | ######(1980)| :green_book:  | حمید‌رضا مرادی |
+| [فصل 3 : زیرساخت غیر‌متمرکز سازی (اتریوم)](https://github.com/defi-master/defi_book/blob/master/book/%D9%81%D8%B5%D9%84%203) | ### | :bookmark_tabs: |
+| [فصل 4 : کیف پول های اتریوم](https://github.com/defi-master/defi_book/blob/master/book/%D9%81%D8%B5%D9%84%204) | ######## | :bookmark_tabs: |
+| [فصل 5 : استیبل کوین غیرمتمرکز](https://github.com/defi-master/defi_book/blob/master/book/%D9%81%D8%B5%D9%84%205) | ############ | :lock_with_ink_pen: |
 | [فصل 6 : سیستم های وام‌دهی و وام‌گیریِ غیر‌متمرکز](https://github.com/defi-master/defi_book/blob/master/book/%D9%81%D8%B5%D9%84%206) | ### | :thought_balloon: |
 | [فصل 7 : صرافی های غیر متمرکز ](https://github.com/defi-master/defi_book/blob/master/book/%D9%81%D8%B5%D9%84%207) | ############# | :thought_balloon: |
 | [فصل 8 : بازار های مشتقات غیرمتمرکز](https://github.com/defi-master/defi_book/blob/master/book/%D9%81%D8%B5%D9%84%208) | ############# | :thought_balloon: |
