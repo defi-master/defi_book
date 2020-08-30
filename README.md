@@ -41,7 +41,7 @@
 
  | بخش | حجم (تعداد کلمات ) |  وضعیت |  نویسنده / مترجم / گردآورنده |  مشارکت کنندگان |
 |-------|------|:------:|------|------|
-| [مقدمه](https://github.com/defi-master/defi_book/blob/master/book/%D9%85%D9%82%D8%AF%D9%85%D9%87.md) | #(494) | :arrows_clockwise: |علی‌رضا شریف‌پور |
+| [مقدمه](https://github.com/defi-master/defi_book/blob/master/book/%D9%85%D9%82%D8%AF%D9%85%D9%87.md) | #(494) | :green_book: |علی‌رضا شریف‌پور |
 | [فصل 1 : زیر ساخت های مالی سنتی](https://github.com/defi-master/defi_book/blob/master/book/%D9%81%D8%B5%D9%84%201) | ######## | :bookmark_tabs: |علی‌رضا جمالی |
 | [فصل 2 : سیستم های مالی  غیر‌متمرکز چیست](https://github.com/defi-master/defi_book/blob/master/book/%D9%81%D8%B5%D9%84%202) | ############ | :thought_balloon: | حمید‌رضا مرادی |
 | [فصل 3 : زیرساخت غیر‌متمرکز سازی (اتریوم)](https://github.com/defi-master/defi_book/blob/master/book/%D9%81%D8%B5%D9%84%203) | ### | :thought_balloon: |
