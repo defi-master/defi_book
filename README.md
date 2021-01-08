@@ -41,7 +41,7 @@
 
  | بخش | حجم (تعداد کلمات ) |  وضعیت |  نویسنده / مترجم / گردآورنده |  مشارکت کنندگان |
 |-------|------|:------:|------|------|
-| [مقدمه](https://github.com/defi-master/defi_book/blob/master/book/%D9%85%D9%82%D8%AF%D9%85%D9%87.md) | #(494) | :green_book: |حمید‌رضا مرادی |
+| [مقدمه](https://github.com/defi-master/defi_book/blob/master/book/%D9%85%D9%82%D8%AF%D9%85%D9%87.md) | #(494) | :green_book: |علیرضا شریف پور |
 | [فصل 1 : زیر ساخت های مالی سنتی](https://github.com/defi-master/defi_book/blob/master/book/%D9%81%D8%B5%D9%84%201.md) | ####(1468)| :green_book:  |علی‌رضا جمالی |
 | [فصل 2 : سیستم های مالی  غیر‌متمرکز چیست](https://github.com/defi-master/defi_book/blob/master/book/%D9%81%D8%B5%D9%84%202.md) | ######(1980)| :green_book:  | حمید‌رضا مرادی |
 | [فصل 3 : زیرساخت غیر‌متمرکز سازی (اتریوم)](https://github.com/defi-master/defi_book/blob/master/book/%D9%81%D8%B5%D9%84%203) | ### | :bookmark_tabs: |
@@ -62,7 +62,7 @@
 ### :black_nib: نویسندگان و مشارکت‌کنندگان
 * حمید‌رضا مرادی 
 * علی‌رضا جمالی
-* علی‌رضا شریف‌پور 
+* علیرضا شریف‌پور 
 ### :pencil: مشارکت در توسعه
 لطفا به آی‌دی newbateni در تلگرام پیام بدید یا به ایمیل زیر ایمیل یزنید
 ایمیل : newbateni@yahoo.com
